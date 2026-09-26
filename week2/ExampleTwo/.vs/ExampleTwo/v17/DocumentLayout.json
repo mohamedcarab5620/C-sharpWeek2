@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\moham\\Desktop\\CsharpWeek2\\week2\\ExampleTwo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DBC483-456D-45BF-86C9-17EF6331F075}|ExampleTwo\\ExampleTwo.csproj|c:\\users\\moham\\desktop\\csharpweek2\\week2\\exampletwo\\exampletwo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A4DBC483-456D-45BF-86C9-17EF6331F075}|ExampleTwo\\ExampleTwo.csproj|solutionrelative:exampletwo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4DBC483-456D-45BF-86C9-17EF6331F075}|ExampleTwo\\ExampleTwo.csproj|C:\\Users\\moham\\Desktop\\CsharpWeek2\\week2\\ExampleTwo\\exampletwo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4DBC483-456D-45BF-86C9-17EF6331F075}|ExampleTwo\\ExampleTwo.csproj|solutionrelative:exampletwo\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\CsharpWeek2\\week2\\ExampleTwo\\ExampleTwo\\Form1.cs",
+              "RelativeDocumentMoniker": "ExampleTwo\\Form1.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\CsharpWeek2\\week2\\ExampleTwo\\ExampleTwo\\Form1.cs",
+              "RelativeToolTip": "ExampleTwo\\Form1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T05:36:24.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\moham\\Desktop\\CsharpWeek2\\week2\\ExampleTwo\\ExampleTwo\\Form1.cs",
+              "RelativeDocumentMoniker": "ExampleTwo\\Form1.cs",
+              "ToolTip": "C:\\Users\\moham\\Desktop\\CsharpWeek2\\week2\\ExampleTwo\\ExampleTwo\\Form1.cs [Design]",
+              "RelativeToolTip": "ExampleTwo\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T04:10:46.879Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

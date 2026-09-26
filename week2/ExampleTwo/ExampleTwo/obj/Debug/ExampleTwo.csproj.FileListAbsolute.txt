@@ -1,0 +1,22 @@
+C:\Users\moham\Desktop\C# lessons\ExampleTwo\ExampleTwo\bin\Debug\ExampleTwo.exe.config
+C:\Users\moham\Desktop\C# lessons\ExampleTwo\ExampleTwo\bin\Debug\ExampleTwo.exe
+C:\Users\moham\Desktop\C# lessons\ExampleTwo\ExampleTwo\bin\Debug\ExampleTwo.pdb
+C:\Users\moham\Desktop\C# lessons\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\C# lessons\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.Form1.resources
+C:\Users\moham\Desktop\C# lessons\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.Properties.Resources.resources
+C:\Users\moham\Desktop\C# lessons\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\C# lessons\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\C# lessons\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.exe
+C:\Users\moham\Desktop\C# lessons\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.pdb
+C:\Users\moham\Desktop\C# lessons\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.exe.config
+C:\Users\moham\Desktop\CsharpWeek2\week2\ExampleTwo\ExampleTwo\bin\Debug\ExampleTwo.exe.config
+C:\Users\moham\Desktop\CsharpWeek2\week2\ExampleTwo\ExampleTwo\bin\Debug\ExampleTwo.exe
+C:\Users\moham\Desktop\CsharpWeek2\week2\ExampleTwo\ExampleTwo\bin\Debug\ExampleTwo.pdb
+C:\Users\moham\Desktop\CsharpWeek2\week2\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.csproj.AssemblyReference.cache
+C:\Users\moham\Desktop\CsharpWeek2\week2\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.exe.config
+C:\Users\moham\Desktop\CsharpWeek2\week2\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.Form1.resources
+C:\Users\moham\Desktop\CsharpWeek2\week2\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.Properties.Resources.resources
+C:\Users\moham\Desktop\CsharpWeek2\week2\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.csproj.GenerateResource.cache
+C:\Users\moham\Desktop\CsharpWeek2\week2\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.csproj.CoreCompileInputs.cache
+C:\Users\moham\Desktop\CsharpWeek2\week2\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.exe
+C:\Users\moham\Desktop\CsharpWeek2\week2\ExampleTwo\ExampleTwo\obj\Debug\ExampleTwo.pdb
